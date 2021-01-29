@@ -46,8 +46,8 @@ i32 main() {
     cin.tie(0);
     cout.tie(0);
     #ifdef _DEBUG 
-	    freopen("io/i.in", "r", stdin);
-	    freopen("io/o.out", "w", stdout);
+	    freopen("io/i.log", "r", stdin);
+	    freopen("io/o.log", "w", stdout);
     #endif
     cout << "Hello world";
 }
