@@ -10,25 +10,29 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// def //  short  // var //
+// def //   short    //  var  //
  
-#define     i64     long long
-#define     i32     int
-#define     i16     short
-#define     i8      char
-#define     u64     unsigned long long
-#define     u32     unsigned
-#define     u16     unsigned short
-#define     u8      unsigned char
+#define     i64         long long
+#define     i32         int
+#define     i16         short
+#define     i8          char
+#define     u64         unsigned long long
+#define     u32         unsigned
+#define     u16         unsigned short
+#define     u8          unsigned char
  
-#define     vec     vector
-#define     vi      vec<i5>
-#define     vl      vec<i6>
-#define     vc      vec<i3>
+#define     vec         vector
+#define     vi          vec<i32>
+#define     vl          vec<i64>
+#define     vc          vec<i8>
  
-#define     elif    else if
-#define     w(i)    while((i)--)
-#define     f(i, n)   for(i32 (i) = 0; (i) < (n); (i)++)
+#define     elif        else if
+#define     w(i)        while((i)--)
+#define     f(i, n)     for(i32 (i) = 0; (i) < (n); (i)++)
+
+#define     Danil       Lapokin
+#define     Alexey      Korovin
+
 /* ================================== */  
 
 namespace go
